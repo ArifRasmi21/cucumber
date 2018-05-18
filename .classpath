@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-9">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/arifrasmi/Desktop/Work/CucumberFile/cobertura-1.9.4.1.jar"/>
+	<classpathentry kind="lib" path="/Users/arifrasmi/Desktop/Work/CucumberFile/cobertura-2.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/arifrasmi/Desktop/Work/CucumberFile/cucumber-core-1.2.5.jar"/>
+	<classpathentry kind="lib" path="/Users/arifrasmi/Desktop/Work/CucumberFile/cucumber-java-1.2.4.jar"/>
+	<classpathentry kind="lib" path="/Users/arifrasmi/Desktop/Work/CucumberFile/cucumber-junit-1.2.4.jar"/>
+	<classpathentry kind="lib" path="/Users/arifrasmi/Desktop/Work/CucumberFile/cucumber-jvm-deps-1.0.5.jar"/>
+	<classpathentry kind="lib" path="/Users/arifrasmi/Desktop/Work/CucumberFile/cucumber-reporting-3.16.0.jar"/>
+	<classpathentry kind="lib" path="/Users/arifrasmi/Desktop/Work/CucumberFile/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="/Users/arifrasmi/Desktop/Work/CucumberFile/mockito-all-1.10.19.jar"/>
+	<classpathentry kind="lib" path="/Users/arifrasmi/Desktop/Work/gherkin-2.12.2.jar"/>
+	<classpathentry kind="lib" path="/Users/arifrasmi/Desktop/Work/selenium-server-standalone-3.11.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
